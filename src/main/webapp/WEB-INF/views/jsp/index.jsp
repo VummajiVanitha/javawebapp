@@ -14,7 +14,7 @@
 <nav class="navbar navbar-inverse navbar-fixed-top">
 	<div class="container">
 		<div class="navbar-header">
-			<a class="navbar-brand" href="#">Ashok IT</a>
+			<a class="navbar-brand" href="#">Vanitha IT</a>
 		</div>
 	</div>
 </nav>
@@ -48,7 +48,7 @@
 
 	<hr>
 	<footer>
-		<p>&copy; Ashok IT 2023</p>
+		<p>&copy; Vanitha IT 2023</p>
 	</footer>
 </div>
 
